@@ -1,0 +1,25 @@
+.custom-burger {
+    background-color: #000000; 
+    border: none; 
+}
+.custom-backdrop {
+    background-color: rgba(0, 0, 0, 0.7); 
+}
+.offcanvas-body {
+    margin-left: 10px;
+    padding-left: 0; 
+    padding-right: 0;
+}
+
+.offcanvas-header {
+    padding-left: 0; 
+}
+
+.offcanvas-title {
+    margin-left: 20px;
+}
+
+
+
+
+  

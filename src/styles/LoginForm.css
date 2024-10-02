@@ -1,0 +1,21 @@
+.login-form {
+    width: 400px; 
+    margin: auto; 
+    padding: 20px; 
+    background-color: #f8f9fa; 
+    border-radius: 5px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    margin-top: 60px;
+}
+
+.login-button {
+    margin-top: 30px; 
+}
+
+.password-label {
+    margin-top: 25px;
+}
+
+
+
+

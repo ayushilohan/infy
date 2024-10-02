@@ -1,0 +1,11 @@
+.burger-menu {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
